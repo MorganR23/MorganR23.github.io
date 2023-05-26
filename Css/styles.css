@@ -10,7 +10,7 @@ body{
     font-weight: bold;
 }
 
-.nav-item{
+.nav-item-top{
     margin-left: 30px;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
@@ -50,10 +50,14 @@ h1{
     text-align: center;
 }
 
-.joel{
-    display: flex;
-    justify-content: center;
-    height: 200;
+.contact-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 30px
 }
 
+.end{
+    text-align: center;
+}
 
